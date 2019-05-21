@@ -4,3 +4,5 @@ class Dog
     @breed = "Mutt"
   end
 end
+
+doggie = new.Dog()
