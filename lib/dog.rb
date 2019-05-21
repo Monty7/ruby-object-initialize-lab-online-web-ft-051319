@@ -4,6 +4,5 @@ class Dog
     @breed = "Mutt"
   end
   
-  d
-end
+
 
