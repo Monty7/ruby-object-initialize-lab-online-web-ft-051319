@@ -5,5 +5,5 @@ class Dog
   end
 end
 
-dogbreed = Dog.new("Hazel", "Mutt")
+
 
